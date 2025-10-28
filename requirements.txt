@@ -1,3 +1,6 @@
 pandas
 plotly
-streamlit
+streamlit==1.50.0
+python-dateutil==2.9.0.post0
+numpy==2.3.4
+#Histograam de condition VS model_year
