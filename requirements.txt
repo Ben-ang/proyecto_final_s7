@@ -3,4 +3,8 @@ plotly
 streamlit==1.50.0
 python-dateutil==2.9.0.post0
 numpy==2.3.4
-#Histograam de condition VS model_year
+#Aplicación web con Streamlit que muestra gráficos interactivos de los datos de vehículos
+#Ya no coloque las instrucciones en la pagina, en las instrucciones no viene 
+#Es confusa esa parte porque te acostumbrar a dar clic y enviar y aparece en la pagina 
+#De tu proyecto esta en revisión debe indicar que tendrás que enviar dos URLs
+#Despues de enviar regresas a la misma página para enviar la otra
